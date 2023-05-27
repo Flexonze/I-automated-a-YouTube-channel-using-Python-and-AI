@@ -70,17 +70,17 @@ As mentioned, the videos on TikTok usually get around 250 views. On Youtube, a v
 
 **Views per day on TikTok**:
 
-![tiktok graph 2.png](I%20automated%20a%20YouTube%20channel%20using%20Python%20and%20AI%20b5869aa51afd4006a34aa01eee86cc7e/tiktok_graph_2.png)
+![TikTok1.png](./images/TikTok1.png)
 
 **Views per day on YouTube:**
 
-![youtube graph 2.png](I%20automated%20a%20YouTube%20channel%20using%20Python%20and%20AI%20b5869aa51afd4006a34aa01eee86cc7e/youtube_graph_2.png)
+![YouTube1.png](./images/YouTube1.png)
 
 On TikTok, I would typically receive a few views per hour for 12-20 hours until the video reaches around 250 views. On Youtube, All the views would come in the first 2 hours after uploading, then the video would die and no longer get any impressions in the feeds. In rare cases, the video would resurrect after a couple hours, gets tons of impressions then die again. The TikTok algorithm was much more consistent with my uploads.
 
 **Impressions in YouTube feed:**
 
-![youtube graph 3.png](I%20automated%20a%20YouTube%20channel%20using%20Python%20and%20AI%20b5869aa51afd4006a34aa01eee86cc7e/youtube_graph_3.png)
+![YouTube2.png](./images/YouTube2.png)
 
 Based on theses numbers, **what platform would I recommend uploading your short-form videos to?** Well, both. I really don’t see any reason to chose one or the other right now. I would even encourage you to diversify even more with other platforms like Instagram Reels, Snapchat, etc.
 
