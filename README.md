@@ -43,7 +43,7 @@ By now, you must be curious about the outcome. Check out one of the videos: [htt
 
 I created A YouTube and a TikTok channel called ***Some Top Fives With Lucas***. You can take a look at them [here](https://www.youtube.com/@SomeTopFivesWithLucas) and [here](https://www.tiktok.com/@sometopfiveswithlucas).
 
-![Untitled](I%20automated%20a%20YouTube%20channel%20using%20Python%20and%20AI%20b5869aa51afd4006a34aa01eee86cc7e/Untitled.png)
+![Channel](./images/Channel.png)
 
 I uploaded a video every single day from April 2nd to May 2nd for a total of **31 videos**. Let’s take a look at the numbers (as of May 27th 2023):
 
