@@ -13,7 +13,7 @@ To do this, I would need to
 - Find methods to automate all the assets, including scripts, videos, texts, etc.
 - Figure out how to use an AI for the voice-over
 - Automate the editing process
-- Automatically upload the videos
+- Automate the uploading process
 
 The videos should be short and engaging since watch time is likely the most important metric for the YouTube algorithm.
 
@@ -35,7 +35,7 @@ When using a conventional video editing software, simple things are usually effo
 
 When I finally was ready to upload the first video to YouTube, I faced a really weird problem. The uploaded version of the video was completely broken. Everything was looking green and glitchy. I couldn’t find anyone having a similar problem online. This was not happening on my computer or on TikTok. It seemed to be some kind of encoding problem, even though I was using all the recommended settings by YouTube on there troubleshooting page. I fixed that problem by changing some settings (pretty much randomly) when exporting the video. To this day, I still have some compression issues when uploading. The videos always look much better on my computer then on YouTube and TikTok.
 
-I was using OpenAPI’s API to come up with the script of the video. I came up with a prompt that would get a pretty consistent answers from the AI. Although I would sometime need to manually tweak the script a bit, I was usually pretty satisfied with the results. But, GPT 3.5 is is stuck in 2021, which is a problem when I want to include games that came out in 2022 or 2023. I tried using Bing’s chat for those specific games, but the generated text is usually way too long and specific and the results were needing much more manual tweaking. I do not have a solution for this yet.
+I was using OpenAPI’s API to come up with the script of the video. I came up with a prompt that would get a pretty consistent answers from the AI. Although I would sometime need to manually tweak the script a bit, I was usually pretty satisfied with the results. But, GPT 3.5 is stuck in 2021, which is a problem when I want to include games that came out in 2022 or 2023. I tried using Bing’s chat for those specific games, but the generated text is usually way too long and specific and the results were needing much more manual tweaking. I do not have a solution for this yet.
 
 ### The result
 
